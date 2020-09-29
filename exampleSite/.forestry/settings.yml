@@ -5,8 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: academia/examplesite
-  label: contnet
+  path: academia/contant
+  label: content
   create: all
   match: "**/*"
 upload_dir: exampleSite/static/uploads
